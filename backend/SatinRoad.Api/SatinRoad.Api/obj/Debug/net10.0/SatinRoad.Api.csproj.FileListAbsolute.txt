@@ -34,3 +34,4 @@ C:\Documents\SatinRoad\backend\SatinRoad.Api\SatinRoad.Api\obj\Debug\net10.0\ref
 C:\Documents\SatinRoad\backend\SatinRoad.Api\SatinRoad.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Documents\SatinRoad\backend\SatinRoad.Api\SatinRoad.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Documents\SatinRoad\backend\SatinRoad.Api\SatinRoad.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documents\SatinRoad\backend\SatinRoad.Api\SatinRoad.Api\obj\Debug\net10.0\SatinRoad.Api.sourcelink.json
