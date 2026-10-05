@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SatinRoad.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa111fb52ebf84709c9b3371657bfab13dcc97b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SatinRoad.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SatinRoad.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
